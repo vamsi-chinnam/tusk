@@ -3,3 +3,6 @@ Kheer
 Pasta
 Chicken Fry
 Chicken Biryani
+
+Beans
+Pizza
